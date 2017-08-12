@@ -16,14 +16,22 @@ INCLUDE_DIRS += $(SDK_ROOT)/devices/MK64F12/cmsis_drivers
 INCLUDE_DIRS += $(SDK_ROOT)/devices/MK64F12/drivers
 INCLUDE_DIRS += $(SDK_ROOT)/devices/MK64F12/utilities
 
+INCLUDE_DIRS += ../libs
+INCLUDE_DIRS += ../libs/SEGGER_RTT/RTT
+
+INCLUDE_DIRS += src/config
+
+# Startup
 SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/system_MK64F12.c
 SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/gcc/startup_MK64F12.S
-
+# Driver
 SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/drivers/fsl_gpio.c
 SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/drivers/fsl_clock.c
 
-INCLUDE_DIRS += ./src/config
-SOURCE_FILES += $(shell find ./src -iregex ".*\.\(cpp\)")
+SOURCE_FILES += ../libs/SEGGER_RTT/RTT/SEGGER_RTT.c
+SOURCE_FILES += ../libs/SEGGER_RTT/RTT/SEGGER_RTT_printf.c
+
+SOURCE_FILES += $(shell find src -iregex ".*\.\(cpp\)")
 
 # ----- Flags -----------------------------------------------------------------
 
