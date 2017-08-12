@@ -1,14 +1,29 @@
-#include <cstdlib>
+#include <FreeRTOS.h>
+#include <task.h>
 
 #include <SEGGER_RTT.h>
 
 #include "board.hpp"
 
-extern "C" int main() {
-    board::init();
+#define LOG(...) SEGGER_RTT_printf(0, __VA_ARGS__)
 
-    SEGGER_RTT_printf(0, "Test\n");
+static void taskFunction(void *params) {
+    (void)params;
+
+    LOG("%s\n", __PRETTY_FUNCTION__);
 
     for (;;) {
+        GPIO_TogglePinsOutput(RGBLED_GREEN_GPIO, (1 << RGBLED_GREEN_GPIO_PIN));
+        vTaskDelay(100);
     }
+}
+
+extern "C" int main() {
+    LOG("%s\n", __PRETTY_FUNCTION__);
+
+    board::init();
+
+    xTaskCreate(taskFunction, NULL, configMINIMAL_STACK_SIZE, NULL, (tskIDLE_PRIORITY + 1), NULL);
+
+    vTaskStartScheduler();
 }

@@ -16,6 +16,9 @@ INCLUDE_DIRS += $(SDK_ROOT)/devices/MK64F12/cmsis_drivers
 INCLUDE_DIRS += $(SDK_ROOT)/devices/MK64F12/drivers
 INCLUDE_DIRS += $(SDK_ROOT)/devices/MK64F12/utilities
 
+INCLUDE_DIRS += $(SDK_ROOT)/rtos/freertos_9.0.0/Source/include
+INCLUDE_DIRS += $(SDK_ROOT)/rtos/freertos_9.0.0/Source/portable/GCC/ARM_CM4F
+
 INCLUDE_DIRS += ../libs
 INCLUDE_DIRS += ../libs/SEGGER_RTT/RTT
 
@@ -24,6 +27,10 @@ INCLUDE_DIRS += src/config
 # Startup
 SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/system_MK64F12.c
 SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/gcc/startup_MK64F12.S
+# FreeRTOS
+SOURCE_FILES += $(wildcard $(SDK_ROOT)/rtos/freertos_9.0.0/Source/*.c)
+SOURCE_FILES += $(wildcard $(SDK_ROOT)/rtos/freertos_9.0.0/Source/portable/GCC/ARM_CM4F/*.c)
+SOURCE_FILES += $(SDK_ROOT)/rtos/freertos_9.0.0/Source/portable/MemMang/heap_3.c
 # Driver
 SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/drivers/fsl_gpio.c
 SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/drivers/fsl_clock.c
@@ -40,6 +47,7 @@ GCCFLAGS += -mthumb
 GCCFLAGS += -mfloat-abi=hard
 GCCFLAGS += -mfpu=fpv4-sp-d16
 
+COMMON_CFLAGS += -g3
 COMMON_CFLAGS += -O3
 
 CFLAGS += -std=gnu11
