@@ -38,7 +38,7 @@ SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/drivers/fsl_clock.c
 SOURCE_FILES += ../libs/SEGGER_RTT/RTT/SEGGER_RTT.c
 SOURCE_FILES += ../libs/SEGGER_RTT/RTT/SEGGER_RTT_printf.c
 
-SOURCE_FILES += $(shell find src -iregex ".*\.\(cpp\)")
+SOURCE_FILES += $(shell find src -iregex ".*\.\(c\|cpp\)")
 
 # ----- Flags -----------------------------------------------------------------
 
