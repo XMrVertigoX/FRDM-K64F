@@ -1,0 +1,1201 @@
+Archive member included to satisfy reference by file (symbol)
+
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-assert.o)
+                              _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o (__assert_func)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-exit.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (exit)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fprintf.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-assert.o) (fiprintf)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-impure.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-init.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (__libc_init_array)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-memset.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (memset)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-vfprintf.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fprintf.o) (_vfprintf_r)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-vfprintf.o) (_printf_i)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-wbuf.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-vfprintf.o) (__swbuf_r)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-wsetup.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-vfprintf.o) (__swsetup_r)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-abort.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-assert.o) (abort)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fflush.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-wbuf.o) (_fflush_r)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-findfp.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-vfprintf.o) (__sinit)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fvwrite.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-vfprintf.o) (__sfvwrite_r)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fwalk.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-findfp.o) (_fwalk)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-makebuf.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-wsetup.o) (__smakebuf_r)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-memchr.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-vfprintf.o) (memchr)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fvwrite.o) (memcpy)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-memmove.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fvwrite.o) (memmove)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-freer.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-wsetup.o) (_free_r)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-findfp.o) (_malloc_r)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-reallocr.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fvwrite.o) (_realloc_r)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-sbrkr.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-signal.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-abort.o) (raise)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-signalr.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-signal.o) (_kill_r)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-stdio.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-findfp.o) (__sread)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-writer.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-stdio.o) (_write_r)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-closer.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-stdio.o) (_close_r)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fstatr.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-makebuf.o) (_fstat_r)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-isattyr.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-makebuf.o) (_isatty_r)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-lseekr.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-stdio.o) (_lseek_r)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-mlock.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-msizer.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-readr.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-stdio.o) (_read_r)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-reent.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-sbrkr.o) (errno)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(close.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-closer.o) (_close)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(fstat.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fstatr.o) (_fstat)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(getpid.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-signalr.o) (_getpid)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(isatty.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-isattyr.o) (_isatty)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(kill.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-signalr.o) (_kill)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(lseek.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-lseekr.o) (_lseek)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(read.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-readr.o) (_read)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(sbrk.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-sbrkr.o) (_sbrk)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(write.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-writer.o) (_write)
+/opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+                              /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-reent.o)
+g_xtal32Freq        0x4               _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+g_xtal0Freq         0x4               _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .data          0x0000000000000000        0x4 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .text          0x0000000000000000        0x0 _out/home/caspar/Projects/FRDM-K64F/blinky/src/board.o
+ .data          0x0000000000000000        0x0 _out/home/caspar/Projects/FRDM-K64F/blinky/src/board.o
+ .bss           0x0000000000000000        0x0 _out/home/caspar/Projects/FRDM-K64F/blinky/src/board.o
+ .text._ZN5board7initLedEv
+                0x0000000000000000       0x7c _out/home/caspar/Projects/FRDM-K64F/blinky/src/board.o
+ .text          0x0000000000000000        0x0 _out/home/caspar/Projects/FRDM-K64F/blinky/src/main.o
+ .data          0x0000000000000000        0x0 _out/home/caspar/Projects/FRDM-K64F/blinky/src/main.o
+ .bss           0x0000000000000000        0x0 _out/home/caspar/Projects/FRDM-K64F/blinky/src/main.o
+ .text          0x0000000000000000        0x0 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .data          0x0000000000000000        0x0 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .bss           0x0000000000000000        0x0 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_FllStableDelay
+                0x0000000000000000       0x20 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.unlikely.CLOCK_GetMcgExtClkFreq.part.1
+                0x0000000000000000       0x1c _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.unlikely.CLOCK_GetOsc0ErClkFreq.part.2
+                0x0000000000000000       0x1c _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.unlikely.CLOCK_EnablePll0.part.9
+                0x0000000000000000       0x1c _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_GetFllExtRefClkFreq
+                0x0000000000000000       0xa0 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_GetOsc0ErClkFreq
+                0x0000000000000000       0x24 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_GetEr32kClkFreq
+                0x0000000000000000       0x6c _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_GetPllFllSelClkFreq
+                0x0000000000000000       0xf8 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_GetPlatClkFreq
+                0x0000000000000000      0x148 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_GetFlashClkFreq
+                0x0000000000000000      0x148 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_GetFlexBusClkFreq
+                0x0000000000000000      0x148 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_GetBusClkFreq
+                0x0000000000000000      0x148 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_GetCoreSysClkFreq
+                0x0000000000000000      0x148 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_SetSimConfig
+                0x0000000000000000       0x40 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_EnableUsbfs0Clock
+                0x0000000000000000       0xd8 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_GetOutClkFreq
+                0x0000000000000000      0x130 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_GetFreq
+                0x0000000000000000      0x29c _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_GetFllFreq
+                0x0000000000000000       0x50 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_GetInternalRefClkFreq
+                0x0000000000000000       0x30 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_GetFixedFreqClkFreq
+                0x0000000000000000      0x1d4 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_GetPll0Freq
+                0x0000000000000000       0x90 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_SetExternalRefClkConfig
+                0x0000000000000000       0x3c _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_SetInternalRefClkConfig
+                0x0000000000000000       0x84 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_CalcPllDiv
+                0x0000000000000000       0xcc _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_EnablePll0
+                0x0000000000000000       0x3c _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_SetOsc0MonitorMode
+                0x0000000000000000       0x38 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_SetRtcOscMonitorMode
+                0x0000000000000000       0x20 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_SetPll0MonitorMode
+                0x0000000000000000       0x38 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_GetStatusFlags
+                0x0000000000000000       0x38 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_ClearStatusFlags
+                0x0000000000000000       0x2c _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_InitOsc0
+                0x0000000000000000       0x6c _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_DeinitOsc0
+                0x0000000000000000       0x1c _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_TrimInternalRefClk
+                0x0000000000000000       0xb8 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_GetMode
+                0x0000000000000000       0x54 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_SetFeiMode
+                0x0000000000000000       0x60 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_SetFeeMode
+                0x0000000000000000       0x8c _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_SetFbiMode
+                0x0000000000000000       0x68 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_SetFbeMode
+                0x0000000000000000       0x84 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_SetBlpiMode
+                0x0000000000000000       0x14 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_SetBlpeMode
+                0x0000000000000000       0x14 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_SetPbeMode
+                0x0000000000000000       0x94 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_SetPeeMode
+                0x0000000000000000       0x1c _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_ExternalModeToFbeModeQuick
+                0x0000000000000000       0x38 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_InternalModeToFbiModeQuick
+                0x0000000000000000       0x28 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_BootToFeiMode
+                0x0000000000000000       0x60 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_BootToFeeMode
+                0x0000000000000000       0x50 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_BootToBlpiMode
+                0x0000000000000000       0x34 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_BootToBlpeMode
+                0x0000000000000000       0x74 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_BootToPeeMode
+                0x0000000000000000       0x74 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text.CLOCK_SetMcgConfig
+                0x0000000000000000      0x434 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .data.s_fastIrcFreq
+                0x0000000000000000        0x4 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .data.s_slowIrcFreq
+                0x0000000000000000        0x4 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .rodata.CLOCK_EnablePll0.part.9.str1.4
+                0x0000000000000000        0x7 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .rodata.CLOCK_GetFllExtRefClkFreq.str1.4
+                0x0000000000000000        0xd _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .rodata.CLOCK_GetMcgExtClkFreq.part.1.str1.4
+                0x0000000000000000       0x67 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .rodata.CLOCK_GetPllFllSelClkFreq.str1.4
+                0x0000000000000000        0xb _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .rodata.__func__.7529
+                0x0000000000000000       0x17 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .rodata.__func__.7567
+                0x0000000000000000       0x17 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .rodata.__func__.7575
+                0x0000000000000000       0x16 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .rodata.__func__.7665
+                0x0000000000000000       0x12 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .rodata.__func__.7710
+                0x0000000000000000       0x11 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .rodata.__func__.7852
+                0x0000000000000000       0x11 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .rodata.__func__.7919
+                0x0000000000000000       0x14 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .rodata.fllFactorTable.7650
+                0x0000000000000000       0x10 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .rodata.mcgModeMatrix
+                0x0000000000000000       0x40 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .rodata.trimRange.7754
+                0x0000000000000000       0x10 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .comment       0x0000000000000000       0x80 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .ARM.attributes
+                0x0000000000000000       0x39 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ COMMON         0x0000000000000000        0x8 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .text          0x0000000000000000        0x0 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_gpio.o
+ .data          0x0000000000000000        0x0 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_gpio.o
+ .bss           0x0000000000000000        0x0 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_gpio.o
+ .text.unlikely.GPIO_GetInstance.part.0
+                0x0000000000000000       0x1c _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_gpio.o
+ .text.GPIO_GetPinsInterruptFlags
+                0x0000000000000000       0x4c _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_gpio.o
+ .text.GPIO_ClearPinsInterruptFlags
+                0x0000000000000000       0x4c _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_gpio.o
+ .rodata.__func__.7542
+                0x0000000000000000       0x11 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_gpio.o
+ .rodata.s_portBases
+                0x0000000000000000       0x14 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_gpio.o
+ .data          0x0000000000000000        0x0 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/gcc/startup_MK64F12.o
+ .bss           0x0000000000000000        0x0 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/gcc/startup_MK64F12.o
+ .text          0x0000000000000000        0x0 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/system_MK64F12.o
+ .data          0x0000000000000000        0x0 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/system_MK64F12.o
+ .bss           0x0000000000000000        0x0 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/system_MK64F12.o
+ .text.SystemCoreClockUpdate
+                0x0000000000000000      0x1a4 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/system_MK64F12.o
+ .data.SystemCoreClock
+                0x0000000000000000        0x4 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/system_MK64F12.o
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-assert.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-assert.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-assert.o)
+ .text.__assert
+                0x0000000000000000        0xa /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-assert.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fprintf.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fprintf.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fprintf.o)
+ .text._fprintf_r
+                0x0000000000000000       0x1a /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fprintf.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-vfprintf.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-vfprintf.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sprint_r
+                0x0000000000000000       0x1a /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-vfprintf.o)
+ .text.vfprintf
+                0x0000000000000000       0x14 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-vfprintf.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-wbuf.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-wbuf.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-wbuf.o)
+ .text.__swbuf  0x0000000000000000       0x10 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-wbuf.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-wsetup.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-wsetup.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-wsetup.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-abort.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-abort.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-abort.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fflush.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fflush.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fflush.o)
+ .text.fflush   0x0000000000000000       0x24 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fflush.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-findfp.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-findfp.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x0000000000000000        0x4 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x0000000000000000        0x4 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-findfp.o)
+ .text._cleanup
+                0x0000000000000000        0xc /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x0000000000000000        0x2 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-findfp.o)
+ .text.__sfp_lock_release
+                0x0000000000000000        0x2 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-findfp.o)
+ .text.__sinit_lock_acquire
+                0x0000000000000000        0x2 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-findfp.o)
+ .text.__sinit_lock_release
+                0x0000000000000000        0x2 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-findfp.o)
+ .text.__fp_lock_all
+                0x0000000000000000       0x14 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock_all
+                0x0000000000000000       0x14 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-findfp.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fvwrite.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fvwrite.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fvwrite.o)
+ .text.__sfvwrite_r
+                0x0000000000000000      0x29c /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fvwrite.o)
+ .debug_frame   0x0000000000000000       0x3c /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fvwrite.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fvwrite.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fwalk.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fwalk.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fwalk.o)
+ .text._fwalk   0x0000000000000000       0x38 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fwalk.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-makebuf.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-makebuf.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-makebuf.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-memchr.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-memchr.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+ .text.memcpy   0x0000000000000000       0x16 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x0000000000000000       0x28 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-memmove.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-memmove.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-memmove.o)
+ .text.memmove  0x0000000000000000       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-memmove.o)
+ .debug_frame   0x0000000000000000       0x28 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-memmove.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-reallocr.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-reallocr.o)
+ .text._realloc_r
+                0x0000000000000000       0x4c /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x0000000000000000       0x3c /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-reallocr.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-reallocr.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-signal.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-signal.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-signal.o)
+ .text._init_signal_r
+                0x0000000000000000       0x2a /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-signal.o)
+ .text._signal_r
+                0x0000000000000000       0x30 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-signal.o)
+ .text.__sigtramp_r
+                0x0000000000000000       0x48 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-signal.o)
+ .text.signal   0x0000000000000000       0x10 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-signal.o)
+ .text._init_signal
+                0x0000000000000000        0xc /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-signal.o)
+ .text.__sigtramp
+                0x0000000000000000       0x10 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-signal.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-signalr.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-signalr.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-signalr.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-stdio.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-stdio.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-stdio.o)
+ .text.__seofread
+                0x0000000000000000        0x4 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-stdio.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-writer.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-writer.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-writer.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-closer.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-closer.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-closer.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fstatr.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fstatr.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fstatr.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-isattyr.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-isattyr.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-isattyr.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-lseekr.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-lseekr.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-lseekr.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-msizer.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-msizer.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-msizer.o)
+ .text._malloc_usable_size_r
+                0x0000000000000000       0x12 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-msizer.o)
+ .debug_frame   0x0000000000000000       0x20 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-msizer.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-msizer.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-readr.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-readr.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-readr.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x1a /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000       0xb8 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(close.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(close.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(close.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(fstat.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(fstat.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(fstat.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(getpid.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(getpid.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(getpid.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(isatty.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(isatty.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(isatty.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(kill.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(kill.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(kill.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(lseek.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(lseek.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(lseek.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(read.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(read.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(read.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(sbrk.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(sbrk.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(sbrk.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(write.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(write.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(write.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+m_interrupts     0x0000000000000000 0x0000000000000400 xr
+m_flash_config   0x0000000000000400 0x0000000000000010 xr
+m_text           0x0000000000000410 0x00000000000ffbf0 xr
+m_data           0x000000001fff0000 0x0000000000010000 rw
+m_data_2         0x0000000020000000 0x0000000000030000 rw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+LOAD /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+LOAD /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+LOAD _out/home/caspar/Projects/FRDM-K64F/blinky/src/board.o
+LOAD _out/home/caspar/Projects/FRDM-K64F/blinky/src/main.o
+LOAD _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+LOAD _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_gpio.o
+LOAD _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/gcc/startup_MK64F12.o
+LOAD _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/system_MK64F12.o
+START GROUP
+LOAD /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a
+LOAD /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a
+END GROUP
+START GROUP
+LOAD /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a
+LOAD /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a
+LOAD /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a
+END GROUP
+START GROUP
+LOAD /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a
+LOAD /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a
+LOAD /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a
+END GROUP
+LOAD /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+LOAD /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+                0x0000000000000400                HEAP_SIZE = DEFINED (__heap_size__)?__heap_size__:0x400
+                0x0000000000000400                STACK_SIZE = DEFINED (__stack_size__)?__stack_size__:0x400
+                0x0000000000000000                M_VECTOR_RAM_SIZE = DEFINED (__ram_vector_table__)?0x400:0x0
+
+.interrupts     0x0000000000000000      0x400
+                0x0000000000000000                __VECTOR_TABLE = .
+                0x0000000000000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000000000000      0x400 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/gcc/startup_MK64F12.o
+                0x0000000000000000                __isr_vector
+                0x0000000000000400                . = ALIGN (0x4)
+
+.flash_config   0x0000000000000400       0x10
+                0x0000000000000400                . = ALIGN (0x4)
+ *(.FlashConfig)
+ .FlashConfig   0x0000000000000400       0x10 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/gcc/startup_MK64F12.o
+                0x0000000000000410                . = ALIGN (0x4)
+
+.text           0x0000000000000410     0x15d8
+                0x0000000000000410                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0000000000000410       0x6c /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .text          0x000000000000047c       0x74 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+                0x000000000000047c                _mainCRTStartup
+                0x000000000000047c                _start
+ .text          0x00000000000004f0      0x1e8 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/gcc/startup_MK64F12.o
+                0x00000000000004f0                Reset_Handler
+                0x0000000000000538                DebugMon_Handler
+                0x0000000000000538                DMA0_DriverIRQHandler
+                0x0000000000000538                DMA12_DriverIRQHandler
+                0x0000000000000538                SPI1_DriverIRQHandler
+                0x0000000000000538                DMA_Error_DriverIRQHandler
+                0x0000000000000538                SDHC_DriverIRQHandler
+                0x0000000000000538                PIT0_IRQHandler
+                0x0000000000000538                CMP2_IRQHandler
+                0x0000000000000538                LLWU_IRQHandler
+                0x0000000000000538                I2S0_Tx_DriverIRQHandler
+                0x0000000000000538                DMA6_DriverIRQHandler
+                0x0000000000000538                ENET_1588_Timer_DriverIRQHandler
+                0x0000000000000538                I2C2_DriverIRQHandler
+                0x0000000000000538                SWI_IRQHandler
+                0x0000000000000538                ADC0_IRQHandler
+                0x0000000000000538                UsageFault_Handler
+                0x0000000000000538                UART5_RX_TX_DriverIRQHandler
+                0x0000000000000538                CMT_IRQHandler
+                0x0000000000000538                DefaultISR
+                0x0000000000000538                UART5_ERR_DriverIRQHandler
+                0x0000000000000538                DMA11_DriverIRQHandler
+                0x0000000000000538                CMP1_IRQHandler
+                0x0000000000000538                Reserved71_IRQHandler
+                0x0000000000000538                PORTD_IRQHandler
+                0x0000000000000538                PORTB_IRQHandler
+                0x0000000000000538                DMA10_DriverIRQHandler
+                0x0000000000000538                UART2_ERR_DriverIRQHandler
+                0x0000000000000538                SPI2_DriverIRQHandler
+                0x0000000000000538                ADC1_IRQHandler
+                0x0000000000000538                DMA5_DriverIRQHandler
+                0x0000000000000538                DMA4_DriverIRQHandler
+                0x0000000000000538                PIT2_IRQHandler
+                0x0000000000000538                UART2_RX_TX_DriverIRQHandler
+                0x0000000000000538                RTC_IRQHandler
+                0x0000000000000538                UART3_ERR_DriverIRQHandler
+                0x0000000000000538                PDB0_IRQHandler
+                0x0000000000000538                FTM1_IRQHandler
+                0x0000000000000538                DMA3_DriverIRQHandler
+                0x0000000000000538                PIT3_IRQHandler
+                0x0000000000000538                RTC_Seconds_IRQHandler
+                0x0000000000000538                MCG_IRQHandler
+                0x0000000000000538                FTFE_IRQHandler
+                0x0000000000000538                DMA9_DriverIRQHandler
+                0x0000000000000538                DMA8_DriverIRQHandler
+                0x0000000000000538                UART0_ERR_DriverIRQHandler
+                0x0000000000000538                Read_Collision_IRQHandler
+                0x0000000000000538                DMA14_DriverIRQHandler
+                0x0000000000000538                USBDCD_IRQHandler
+                0x0000000000000538                I2S0_Rx_DriverIRQHandler
+                0x0000000000000538                USB0_IRQHandler
+                0x0000000000000538                UART4_RX_TX_DriverIRQHandler
+                0x0000000000000538                UART4_ERR_DriverIRQHandler
+                0x0000000000000538                WDOG_EWM_IRQHandler
+                0x0000000000000538                MemManage_Handler
+                0x0000000000000538                UART0_LON_DriverIRQHandler
+                0x0000000000000538                DMA1_DriverIRQHandler
+                0x0000000000000538                RNG_IRQHandler
+                0x0000000000000538                I2C1_DriverIRQHandler
+                0x0000000000000538                UART3_RX_TX_DriverIRQHandler
+                0x0000000000000538                ENET_Receive_DriverIRQHandler
+                0x0000000000000538                DAC0_IRQHandler
+                0x0000000000000538                DMA13_DriverIRQHandler
+                0x0000000000000538                ENET_Error_DriverIRQHandler
+                0x0000000000000538                DMA15_DriverIRQHandler
+                0x0000000000000538                UART0_RX_TX_DriverIRQHandler
+                0x0000000000000538                SPI0_DriverIRQHandler
+                0x0000000000000538                PIT1_IRQHandler
+                0x0000000000000538                LVD_LVW_IRQHandler
+                0x0000000000000538                FTM0_IRQHandler
+                0x0000000000000538                PORTA_IRQHandler
+                0x0000000000000538                DAC1_IRQHandler
+                0x0000000000000538                MCM_IRQHandler
+                0x0000000000000538                CAN0_DriverIRQHandler
+                0x0000000000000538                FTM3_IRQHandler
+                0x0000000000000538                PORTE_IRQHandler
+                0x0000000000000538                FTM2_IRQHandler
+                0x0000000000000538                LPTMR0_IRQHandler
+                0x0000000000000538                BusFault_Handler
+                0x0000000000000538                UART1_ERR_DriverIRQHandler
+                0x0000000000000538                DMA2_DriverIRQHandler
+                0x0000000000000538                ENET_Transmit_DriverIRQHandler
+                0x0000000000000538                I2C0_DriverIRQHandler
+                0x0000000000000538                DMA7_DriverIRQHandler
+                0x0000000000000538                CMP0_IRQHandler
+                0x0000000000000538                UART1_RX_TX_DriverIRQHandler
+                0x0000000000000538                PORTC_IRQHandler
+                0x000000000000053c                NMI_Handler
+                0x0000000000000540                HardFault_Handler
+                0x0000000000000544                SVC_Handler
+                0x0000000000000548                PendSV_Handler
+                0x000000000000054c                SysTick_Handler
+                0x0000000000000550                DMA0_IRQHandler
+                0x0000000000000554                DMA1_IRQHandler
+                0x0000000000000558                DMA2_IRQHandler
+                0x000000000000055c                DMA3_IRQHandler
+                0x0000000000000560                DMA4_IRQHandler
+                0x0000000000000564                DMA5_IRQHandler
+                0x0000000000000568                DMA6_IRQHandler
+                0x000000000000056c                DMA7_IRQHandler
+                0x0000000000000570                DMA8_IRQHandler
+                0x0000000000000574                DMA9_IRQHandler
+                0x0000000000000578                DMA10_IRQHandler
+                0x000000000000057c                DMA11_IRQHandler
+                0x0000000000000580                DMA12_IRQHandler
+                0x0000000000000584                DMA13_IRQHandler
+                0x0000000000000588                DMA14_IRQHandler
+                0x000000000000058c                DMA15_IRQHandler
+                0x0000000000000590                DMA_Error_IRQHandler
+                0x0000000000000594                I2C0_IRQHandler
+                0x0000000000000598                I2C1_IRQHandler
+                0x000000000000059c                SPI0_IRQHandler
+                0x00000000000005a0                SPI1_IRQHandler
+                0x00000000000005a4                I2S0_Tx_IRQHandler
+                0x00000000000005a8                I2S0_Rx_IRQHandler
+                0x00000000000005ac                UART0_LON_IRQHandler
+                0x00000000000005b0                UART0_RX_TX_IRQHandler
+                0x00000000000005b4                UART0_ERR_IRQHandler
+                0x00000000000005b8                UART1_RX_TX_IRQHandler
+                0x00000000000005bc                UART1_ERR_IRQHandler
+                0x00000000000005c0                UART2_RX_TX_IRQHandler
+                0x00000000000005c4                UART2_ERR_IRQHandler
+                0x00000000000005c8                UART3_RX_TX_IRQHandler
+                0x00000000000005cc                UART3_ERR_IRQHandler
+                0x00000000000005d0                SPI2_IRQHandler
+                0x00000000000005d4                UART4_RX_TX_IRQHandler
+                0x00000000000005d8                UART4_ERR_IRQHandler
+                0x00000000000005dc                UART5_RX_TX_IRQHandler
+                0x00000000000005e0                UART5_ERR_IRQHandler
+                0x00000000000005e4                I2C2_IRQHandler
+                0x00000000000005e8                CAN0_ORed_Message_buffer_IRQHandler
+                0x00000000000005ec                CAN0_Bus_Off_IRQHandler
+                0x00000000000005f0                CAN0_Error_IRQHandler
+                0x00000000000005f4                CAN0_Tx_Warning_IRQHandler
+                0x00000000000005f8                CAN0_Rx_Warning_IRQHandler
+                0x00000000000005fc                CAN0_Wake_Up_IRQHandler
+                0x0000000000000600                SDHC_IRQHandler
+                0x0000000000000604                ENET_1588_Timer_IRQHandler
+                0x0000000000000608                ENET_Transmit_IRQHandler
+                0x000000000000060c                ENET_Receive_IRQHandler
+                0x0000000000000610                ENET_Error_IRQHandler
+ *fill*         0x00000000000006d8        0x8 
+ .text          0x00000000000006e0       0xa0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-memchr.o)
+                0x00000000000006e0                memchr
+ *(.text*)
+ .text._ZN5board4initEv
+                0x0000000000000780       0x7c _out/home/caspar/Projects/FRDM-K64F/blinky/src/board.o
+                0x0000000000000780                board::init()
+ .text.startup.main
+                0x00000000000007fc        0x8 _out/home/caspar/Projects/FRDM-K64F/blinky/src/main.o
+                0x00000000000007fc                main
+ .text.GPIO_PinInit
+                0x0000000000000804       0x54 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_gpio.o
+                0x0000000000000804                GPIO_PinInit
+ .text.SystemInit
+                0x0000000000000858       0x30 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/system_MK64F12.o
+                0x0000000000000858                SystemInit
+ .text.__assert_func
+                0x0000000000000888       0x3c /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-assert.o)
+                0x0000000000000888                __assert_func
+ .text.exit     0x00000000000008c4       0x28 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-exit.o)
+                0x00000000000008c4                exit
+ .text.fprintf  0x00000000000008ec       0x24 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fprintf.o)
+                0x00000000000008ec                fprintf
+                0x00000000000008ec                fiprintf
+ .text.__libc_init_array
+                0x0000000000000910       0x48 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-init.o)
+                0x0000000000000910                __libc_init_array
+ .text.memset   0x0000000000000958       0x10 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-memset.o)
+                0x0000000000000958                memset
+ .text.__sfputc_r
+                0x0000000000000968       0x30 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sfputs_r
+                0x0000000000000998       0x24 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-vfprintf.o)
+                0x0000000000000998                __sfputs_r
+ .text._vfprintf_r
+                0x00000000000009bc      0x22c /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-vfprintf.o)
+                0x00000000000009bc                _vfiprintf_r
+                0x00000000000009bc                _vfprintf_r
+ .text._printf_common
+                0x0000000000000be8       0xec /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000000000be8                _printf_common
+ .text._printf_i
+                0x0000000000000cd4      0x240 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000000000cd4                _printf_i
+ .text.__swbuf_r
+                0x0000000000000f14       0xa4 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-wbuf.o)
+                0x0000000000000f14                __swbuf_r
+ .text.__swsetup_r
+                0x0000000000000fb8       0xdc /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-wsetup.o)
+                0x0000000000000fb8                __swsetup_r
+ .text.abort    0x0000000000001094        0xe /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-abort.o)
+                0x0000000000001094                abort
+ *fill*         0x00000000000010a2        0x2 
+ .text.__sflush_r
+                0x00000000000010a4      0x110 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fflush.o)
+                0x00000000000010a4                __sflush_r
+ .text._fflush_r
+                0x00000000000011b4       0x54 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fflush.o)
+                0x00000000000011b4                _fflush_r
+ .text._cleanup_r
+                0x0000000000001208        0xc /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-findfp.o)
+                0x0000000000001208                _cleanup_r
+ .text.std.isra.0
+                0x0000000000001214       0x48 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-findfp.o)
+ .text.__sfmoreglue
+                0x000000000000125c       0x2c /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-findfp.o)
+                0x000000000000125c                __sfmoreglue
+ .text.__sinit  0x0000000000001288       0x60 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-findfp.o)
+                0x0000000000001288                __sinit
+ .text.__sfp    0x00000000000012e8       0x78 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-findfp.o)
+                0x00000000000012e8                __sfp
+ .text._fwalk_reent
+                0x0000000000001360       0x3c /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fwalk.o)
+                0x0000000000001360                _fwalk_reent
+ .text.__swhatbuf_r
+                0x000000000000139c       0x48 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-makebuf.o)
+                0x000000000000139c                __swhatbuf_r
+ .text.__smakebuf_r
+                0x00000000000013e4       0x80 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-makebuf.o)
+                0x00000000000013e4                __smakebuf_r
+ .text._free_r  0x0000000000001464       0x9c /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-freer.o)
+                0x0000000000001464                _free_r
+ .text._malloc_r
+                0x0000000000001500       0xbc /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+                0x0000000000001500                _malloc_r
+ .text._sbrk_r  0x00000000000015bc       0x20 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-sbrkr.o)
+                0x00000000000015bc                _sbrk_r
+ .text._raise_r
+                0x00000000000015dc       0x50 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-signal.o)
+                0x00000000000015dc                _raise_r
+ .text.raise    0x000000000000162c       0x10 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-signal.o)
+                0x000000000000162c                raise
+ .text._kill_r  0x000000000000163c       0x24 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-signalr.o)
+                0x000000000000163c                _kill_r
+ .text._getpid_r
+                0x0000000000001660        0x4 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-signalr.o)
+                0x0000000000001660                _getpid_r
+ .text.__sread  0x0000000000001664       0x22 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-stdio.o)
+                0x0000000000001664                __sread
+ .text.__swrite
+                0x0000000000001686       0x38 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-stdio.o)
+                0x0000000000001686                __swrite
+ .text.__sseek  0x00000000000016be       0x24 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-stdio.o)
+                0x00000000000016be                __sseek
+ .text.__sclose
+                0x00000000000016e2        0x8 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-stdio.o)
+                0x00000000000016e2                __sclose
+ *fill*         0x00000000000016ea        0x2 
+ .text._write_r
+                0x00000000000016ec       0x24 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-writer.o)
+                0x00000000000016ec                _write_r
+ .text._close_r
+                0x0000000000001710       0x20 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-closer.o)
+                0x0000000000001710                _close_r
+ .text._fstat_r
+                0x0000000000001730       0x24 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fstatr.o)
+                0x0000000000001730                _fstat_r
+ .text._isatty_r
+                0x0000000000001754       0x20 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-isattyr.o)
+                0x0000000000001754                _isatty_r
+ .text._lseek_r
+                0x0000000000001774       0x24 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-lseekr.o)
+                0x0000000000001774                _lseek_r
+ .text.__malloc_lock
+                0x0000000000001798        0x2 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-mlock.o)
+                0x0000000000001798                __malloc_lock
+ .text.__malloc_unlock
+                0x000000000000179a        0x2 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-mlock.o)
+                0x000000000000179a                __malloc_unlock
+ .text._read_r  0x000000000000179c       0x24 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-readr.o)
+                0x000000000000179c                _read_r
+ .text._close   0x00000000000017c0       0x10 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(close.o)
+                0x00000000000017c0                _close
+ .text._fstat   0x00000000000017d0       0x10 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(fstat.o)
+                0x00000000000017d0                _fstat
+ .text._getpid  0x00000000000017e0       0x10 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(getpid.o)
+                0x00000000000017e0                _getpid
+ .text._isatty  0x00000000000017f0       0x10 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(isatty.o)
+                0x00000000000017f0                _isatty
+ .text._kill    0x0000000000001800       0x10 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(kill.o)
+                0x0000000000001800                _kill
+ .text._lseek   0x0000000000001810       0x10 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(lseek.o)
+                0x0000000000001810                _lseek
+ .text._read    0x0000000000001820       0x10 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(read.o)
+                0x0000000000001820                _read
+ .text._sbrk    0x0000000000001830       0x1c /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(sbrk.o)
+                0x0000000000001830                _sbrk
+ .text._write   0x000000000000184c       0x10 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(write.o)
+                0x000000000000184c                _write
+ .text._exit    0x000000000000185c        0x4 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+                0x000000000000185c                _exit
+ *(.rodata)
+ *(.rodata*)
+ .rodata._ZL9ledConfig
+                0x0000000000001860        0x2 _out/home/caspar/Projects/FRDM-K64F/blinky/src/board.o
+ *fill*         0x0000000000001862        0x2 
+ .rodata.GPIO_GetInstance.part.0.str1.4
+                0x0000000000001864       0x7e _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_gpio.o
+ *fill*         0x00000000000018e2        0x2 
+ .rodata.GPIO_PinInit.str1.4
+                0x00000000000018e4        0x8 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_gpio.o
+                                          0x7 (size before relaxing)
+ .rodata.__func__.7548
+                0x00000000000018ec        0xd _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_gpio.o
+ .rodata.__assert_func.str1.1
+                0x00000000000018f9       0x3c /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-assert.o)
+                                         0x3d (size before relaxing)
+ *fill*         0x0000000000001935        0x3 
+ .rodata._global_impure_ptr
+                0x0000000000001938        0x4 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-impure.o)
+                0x0000000000001938                _global_impure_ptr
+ .rodata._vfprintf_r.str1.1
+                0x000000000000193c       0x11 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-vfprintf.o)
+ .rodata._printf_i.str1.1
+                0x000000000000194d       0x22 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ *fill*         0x000000000000196f        0x1 
+ .rodata.__sf_fake_stderr
+                0x0000000000001970       0x20 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-findfp.o)
+                0x0000000000001970                __sf_fake_stderr
+ .rodata.__sf_fake_stdin
+                0x0000000000001990       0x20 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-findfp.o)
+                0x0000000000001990                __sf_fake_stdin
+ .rodata.__sf_fake_stdout
+                0x00000000000019b0       0x20 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-findfp.o)
+                0x00000000000019b0                __sf_fake_stdout
+ *(.glue_7)
+ .glue_7        0x00000000000019d0        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000000019d0        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x00000000000019d0        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ *(.init)
+ .init          0x00000000000019d0        0x4 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x00000000000019d0                _init
+ .init          0x00000000000019d4        0x8 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.fini)
+ .fini          0x00000000000019dc        0x4 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x00000000000019dc                _fini
+ .fini          0x00000000000019e0        0x8 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+                0x00000000000019e8                . = ALIGN (0x4)
+
+.vfp11_veneer   0x00000000000019e8        0x0
+ .vfp11_veneer  0x00000000000019e8        0x0 linker stubs
+
+.v4_bx          0x00000000000019e8        0x0
+ .v4_bx         0x00000000000019e8        0x0 linker stubs
+
+.iplt           0x00000000000019e8        0x0
+ .iplt          0x00000000000019e8        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x00000000000019e8        0x8
+                0x00000000000019e8                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x00000000000019e8        0x8 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+                0x00000000000019f0                __exidx_end = .
+
+.rel.dyn        0x00000000000019f0        0x0
+ .rel.iplt      0x00000000000019f0        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.ctors          0x00000000000019f0        0x0
+                0x00000000000019f0                __CTOR_LIST__ = .
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+                0x00000000000019f0                __CTOR_END__ = .
+
+.dtors          0x00000000000019f0        0x0
+                0x00000000000019f0                __DTOR_LIST__ = .
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x00000000000019f0                __DTOR_END__ = .
+
+.preinit_array  0x00000000000019f0        0x0
+                0x00000000000019f0                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x00000000000019f0                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x00000000000019f0        0x4
+                0x00000000000019f0                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+ .init_array    0x00000000000019f0        0x4 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+                0x00000000000019f4                PROVIDE (__init_array_end, .)
+
+.fini_array     0x00000000000019f4        0x4
+                [!provide]                        PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x00000000000019f4        0x4 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end, .)
+                0x00000000000019f8                __etext = .
+                0x00000000000019f8                __DATA_ROM = .
+
+.interrupts_ram
+                0x000000001fff0000        0x0
+                0x000000001fff0000                . = ALIGN (0x4)
+                0x000000001fff0000                __VECTOR_RAM__ = .
+                0x000000001fff0000                __interrupts_ram_start__ = .
+ *(.m_interrupts_ram)
+                0x000000001fff0000                . = (. + M_VECTOR_RAM_SIZE)
+                0x000000001fff0000                . = ALIGN (0x4)
+                0x000000001fff0000                __interrupts_ram_end__ = .
+                0x0000000000000000                __VECTOR_RAM = DEFINED (__ram_vector_table__)?__VECTOR_RAM__:ORIGIN (m_interrupts)
+                0x0000000000000000                __RAM_VECTOR_TABLE_SIZE_BYTES = DEFINED (__ram_vector_table__)?(__interrupts_ram_end__ - __interrupts_ram_start__):0x0
+
+.data           0x000000001fff0000       0x68 load address 0x00000000000019f8
+                0x000000001fff0000                . = ALIGN (0x4)
+                0x000000001fff0000                __DATA_RAM = .
+                0x000000001fff0000                __data_start__ = .
+ *(.data)
+ *(.data*)
+ .data._impure_ptr
+                0x000000001fff0000        0x4 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-impure.o)
+                0x000000001fff0000                _impure_ptr
+ .data.impure_data
+                0x000000001fff0004       0x60 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-impure.o)
+ *(.jcr*)
+ .jcr           0x000000001fff0064        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .jcr           0x000000001fff0064        0x4 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+                0x000000001fff0068                . = ALIGN (0x4)
+                0x000000001fff0068                __data_end__ = .
+                0x0000000000001a60                __DATA_END = (__DATA_ROM + (__data_end__ - __data_start__))
+                0x0000000000100000                text_end = (ORIGIN (m_text) + LENGTH (m_text))
+                0x0000000000000001                ASSERT ((__DATA_END <= text_end), region m_text overflowed with text and data)
+
+.igot.plt       0x000000001fff0068        0x0 load address 0x0000000000001a60
+ .igot.plt      0x000000001fff0068        0x0 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.bss            0x000000001fff0068       0x2c load address 0x0000000000001a60
+                0x000000001fff0068                . = ALIGN (0x4)
+                0x000000001fff0068                __START_BSS = .
+                0x000000001fff0068                __bss_start__ = .
+ *(.bss)
+ .bss           0x000000001fff0068       0x1c /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ *(.bss*)
+ .bss.__malloc_free_list
+                0x000000001fff0084        0x4 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+                0x000000001fff0084                __malloc_free_list
+ .bss.__malloc_sbrk_start
+                0x000000001fff0088        0x4 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+                0x000000001fff0088                __malloc_sbrk_start
+ .bss.heap_end.5239
+                0x000000001fff008c        0x4 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(sbrk.o)
+ *(COMMON)
+ COMMON         0x000000001fff0090        0x4 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-reent.o)
+                0x000000001fff0090                errno
+                0x000000001fff0094                . = ALIGN (0x4)
+                0x000000001fff0094                __bss_end__ = .
+                0x000000001fff0094                __END_BSS = .
+
+.heap           0x0000000020000000      0x400
+                0x0000000020000000                . = ALIGN (0x8)
+                0x0000000020000000                __end__ = .
+                0x0000000020000000                PROVIDE (end, .)
+                0x0000000020000000                __HeapBase = .
+                0x0000000020000400                . = (. + HEAP_SIZE)
+ *fill*         0x0000000020000000      0x400 
+                0x0000000020000400                __HeapLimit = .
+                0x0000000020000400                __heap_limit = .
+
+.stack          0x0000000020000400      0x400
+                0x0000000020000400                . = ALIGN (0x8)
+                0x0000000020000800                . = (. + STACK_SIZE)
+ *fill*         0x0000000020000400      0x400 
+                0x0000000020030000                __StackTop = (ORIGIN (m_data_2) + LENGTH (m_data_2))
+                0x000000002002fc00                __StackLimit = (__StackTop - STACK_SIZE)
+                0x0000000020030000                PROVIDE (__stack, __StackTop)
+
+.ARM.attributes
+                0x0000000000000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x22 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .ARM.attributes
+                0x0000000000000022       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .ARM.attributes
+                0x0000000000000056       0x20 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .ARM.attributes
+                0x0000000000000076       0x39 _out/home/caspar/Projects/FRDM-K64F/blinky/src/board.o
+ .ARM.attributes
+                0x00000000000000af       0x39 _out/home/caspar/Projects/FRDM-K64F/blinky/src/main.o
+ .ARM.attributes
+                0x00000000000000e8       0x39 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_gpio.o
+ .ARM.attributes
+                0x0000000000000121       0x1f _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/gcc/startup_MK64F12.o
+ .ARM.attributes
+                0x0000000000000140       0x39 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/system_MK64F12.o
+ .ARM.attributes
+                0x0000000000000179       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-assert.o)
+ .ARM.attributes
+                0x00000000000001ad       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000000001e1       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fprintf.o)
+ .ARM.attributes
+                0x0000000000000215       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000249       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x000000000000027d       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000000002b1       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-vfprintf.o)
+ .ARM.attributes
+                0x00000000000002e5       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x0000000000000319       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-wbuf.o)
+ .ARM.attributes
+                0x000000000000034d       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x0000000000000381       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-abort.o)
+ .ARM.attributes
+                0x00000000000003b5       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x00000000000003e9       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x000000000000041d       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x0000000000000451       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x0000000000000485       0x20 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x00000000000004a5       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x00000000000004d9       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x000000000000050d       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000000000000541       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-signal.o)
+ .ARM.attributes
+                0x0000000000000575       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-signalr.o)
+ .ARM.attributes
+                0x00000000000005a9       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x00000000000005dd       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-writer.o)
+ .ARM.attributes
+                0x0000000000000611       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-closer.o)
+ .ARM.attributes
+                0x0000000000000645       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x0000000000000679       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-isattyr.o)
+ .ARM.attributes
+                0x00000000000006ad       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x00000000000006e1       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x0000000000000715       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-readr.o)
+ .ARM.attributes
+                0x0000000000000749       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x000000000000077d       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(close.o)
+ .ARM.attributes
+                0x00000000000007b1       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(fstat.o)
+ .ARM.attributes
+                0x00000000000007e5       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(getpid.o)
+ .ARM.attributes
+                0x0000000000000819       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(isatty.o)
+ .ARM.attributes
+                0x000000000000084d       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(kill.o)
+ .ARM.attributes
+                0x0000000000000881       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(lseek.o)
+ .ARM.attributes
+                0x00000000000008b5       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(read.o)
+ .ARM.attributes
+                0x00000000000008e9       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x000000000000091d       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(write.o)
+ .ARM.attributes
+                0x0000000000000951       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000000000000985       0x34 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .ARM.attributes
+                0x00000000000009b9       0x22 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+                0x0000000000000001                ASSERT ((__StackLimit >= __HeapLimit), region m_data_2 overflowed with stack and heap)
+OUTPUT(_out/blinky.elf elf32-littlearm)
+
+.comment        0x0000000000000000       0x7f
+ .comment       0x0000000000000000       0x7f _out/home/caspar/Projects/FRDM-K64F/blinky/src/board.o
+                                         0x80 (size before relaxing)
+ .comment       0x000000000000007f       0x80 _out/home/caspar/Projects/FRDM-K64F/blinky/src/main.o
+ .comment       0x000000000000007f       0x80 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/drivers/fsl_gpio.o
+ .comment       0x000000000000007f       0x80 _out/home/caspar/Projects/FRDM-K64F/libs/SDK_2.2_FRDM-K64F/devices/MK64F12/system_MK64F12.o
+
+.debug_frame    0x0000000000000000      0x9dc
+ .debug_frame   0x0000000000000000       0x40 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-assert.o)
+ .debug_frame   0x0000000000000040       0x28 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000068       0x64 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fprintf.o)
+ .debug_frame   0x00000000000000cc       0x2c /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-init.o)
+ .debug_frame   0x00000000000000f8       0x20 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000118       0xac /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-vfprintf.o)
+ .debug_frame   0x00000000000001c4       0x60 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x0000000000000224       0x40 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-wbuf.o)
+ .debug_frame   0x0000000000000264       0x2c /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-wsetup.o)
+ .debug_frame   0x0000000000000290       0x28 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-abort.o)
+ .debug_frame   0x00000000000002b8       0x68 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fflush.o)
+ .debug_frame   0x0000000000000320      0x11c /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-findfp.o)
+ .debug_frame   0x000000000000043c       0x54 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fwalk.o)
+ .debug_frame   0x0000000000000490       0x58 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-makebuf.o)
+ .debug_frame   0x00000000000004e8       0x38 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x0000000000000520       0x2c /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x000000000000054c       0x2c /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000000578       0xcc /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-signal.o)
+ .debug_frame   0x0000000000000644       0x3c /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-signalr.o)
+ .debug_frame   0x0000000000000680       0x88 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-stdio.o)
+ .debug_frame   0x0000000000000708       0x2c /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-writer.o)
+ .debug_frame   0x0000000000000734       0x2c /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-closer.o)
+ .debug_frame   0x0000000000000760       0x2c /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-fstatr.o)
+ .debug_frame   0x000000000000078c       0x2c /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-isattyr.o)
+ .debug_frame   0x00000000000007b8       0x2c /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-lseekr.o)
+ .debug_frame   0x00000000000007e4       0x30 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000000814       0x2c /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-readr.o)
+ .debug_frame   0x0000000000000840       0x5c /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x000000000000089c       0x20 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(close.o)
+ .debug_frame   0x00000000000008bc       0x20 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(fstat.o)
+ .debug_frame   0x00000000000008dc       0x20 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(getpid.o)
+ .debug_frame   0x00000000000008fc       0x20 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(isatty.o)
+ .debug_frame   0x000000000000091c       0x20 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(kill.o)
+ .debug_frame   0x000000000000093c       0x20 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(lseek.o)
+ .debug_frame   0x000000000000095c       0x20 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(read.o)
+ .debug_frame   0x000000000000097c       0x20 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(sbrk.o)
+ .debug_frame   0x000000000000099c       0x20 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(write.o)
+ .debug_frame   0x00000000000009bc       0x20 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+
+.stab           0x0000000000000000       0xcc
+ .stab          0x0000000000000000       0x24 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(close.o)
+ .stab          0x0000000000000024       0x18 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(fstat.o)
+                                         0x24 (size before relaxing)
+ .stab          0x000000000000003c       0x18 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(getpid.o)
+                                         0x24 (size before relaxing)
+ .stab          0x0000000000000054       0x18 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(isatty.o)
+                                         0x24 (size before relaxing)
+ .stab          0x000000000000006c       0x18 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(kill.o)
+                                         0x24 (size before relaxing)
+ .stab          0x0000000000000084       0x18 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(lseek.o)
+                                         0x24 (size before relaxing)
+ .stab          0x000000000000009c       0x18 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(read.o)
+                                         0x24 (size before relaxing)
+ .stab          0x00000000000000b4       0x18 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(write.o)
+                                         0x24 (size before relaxing)
+
+.stabstr        0x0000000000000000      0x1b9
+ .stabstr       0x0000000000000000      0x1b9 /opt/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(close.o)
