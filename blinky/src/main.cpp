@@ -10,15 +10,13 @@
 static void taskFunction(void *params) {
     (void)params;
 
-    LOG("%s\n", __PRETTY_FUNCTION__);
-
     for (;;) {
         GPIO_TogglePinsOutput(RGBLED_GREEN_GPIO, (1 << RGBLED_GREEN_GPIO_PIN));
-        vTaskDelay(100);
+        vTaskDelay(500);
     }
 }
 
-extern "C" int main() {
+int main() {
     LOG("%s\n", __PRETTY_FUNCTION__);
 
     board::init();
@@ -26,4 +24,6 @@ extern "C" int main() {
     xTaskCreate(taskFunction, NULL, configMINIMAL_STACK_SIZE, NULL, (tskIDLE_PRIORITY + 1), NULL);
 
     vTaskStartScheduler();
+
+    return (0);
 }

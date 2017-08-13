@@ -4,8 +4,6 @@ static const gpio_pin_config_t redLedConfig   = {kGPIO_DigitalOutput, 1};
 static const gpio_pin_config_t greenLedConfig = {kGPIO_DigitalOutput, 1};
 static const gpio_pin_config_t blueLedConfig  = {kGPIO_DigitalOutput, 1};
 
-namespace board {
-
 static void initLed() {
     CLOCK_EnableClock(kCLOCK_PortB);
     CLOCK_EnableClock(kCLOCK_PortE);
@@ -19,8 +17,6 @@ static void initLed() {
     GPIO_PinInit(RGBLED_BLUE_GPIO, RGBLED_BLUE_GPIO_PIN, &blueLedConfig);
 }
 
-void init() {
+void board::init() {
     initLed();
 }
-
-} /* namespace board */

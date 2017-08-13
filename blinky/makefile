@@ -28,8 +28,12 @@ INCLUDE_DIRS += src/config
 SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/system_MK64F12.c
 SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/gcc/startup_MK64F12.S
 # FreeRTOS
-SOURCE_FILES += $(wildcard $(SDK_ROOT)/rtos/freertos_9.0.0/Source/*.c)
-SOURCE_FILES += $(wildcard $(SDK_ROOT)/rtos/freertos_9.0.0/Source/portable/GCC/ARM_CM4F/*.c)
+SOURCE_FILES += $(SDK_ROOT)/rtos/freertos_9.0.0/Source/list.c
+SOURCE_FILES += $(SDK_ROOT)/rtos/freertos_9.0.0/Source/queue.c
+SOURCE_FILES += $(SDK_ROOT)/rtos/freertos_9.0.0/Source/tasks.c
+SOURCE_FILES += $(SDK_ROOT)/rtos/freertos_9.0.0/Source/timers.c
+SOURCE_FILES += $(SDK_ROOT)/rtos/freertos_9.0.0/Source/portable/GCC/ARM_CM4F/fsl_tickless_systick.c
+SOURCE_FILES += $(SDK_ROOT)/rtos/freertos_9.0.0/Source/portable/GCC/ARM_CM4F/port.c
 SOURCE_FILES += $(SDK_ROOT)/rtos/freertos_9.0.0/Source/portable/MemMang/heap_3.c
 # Driver
 SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/drivers/fsl_gpio.c
