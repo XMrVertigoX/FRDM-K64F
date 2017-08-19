@@ -51,8 +51,8 @@ GCCFLAGS += -mthumb
 GCCFLAGS += -mfloat-abi=hard
 GCCFLAGS += -mfpu=fpv4-sp-d16
 
-COMMON_CFLAGS += -g3
 COMMON_CFLAGS += -O3
+COMMON_CFLAGS += -flto
 
 CFLAGS += -std=gnu11
 
@@ -61,6 +61,8 @@ CXXFLAGS += -std=gnu++14
 #CPPFLAGS +=
 
 LDFLAGS += -T$(SDK_ROOT)/devices/MK64F12/gcc/MK64FN1M0xxx12_flash.ld
+LDFLAGS += --specs=nano.specs
+LDFLAGS += --specs=nosys.specs
 
 # ----- Rules -----------------------------------------------------------------
 
