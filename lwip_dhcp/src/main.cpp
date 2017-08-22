@@ -27,6 +27,8 @@ extern "C" {
 #include "clock_config.h"
 #include "pin_mux.h"
 
+#include <SEGGER_RTT.h>
+
 /*******************************************************************************
  * Definitions
  ******************************************************************************/
@@ -55,6 +57,19 @@ extern "C" {
 /*******************************************************************************
  * Code
  ******************************************************************************/
+
+extern "C" int _write(int file, char *ptr, size_t len) {
+    (void)file; /* Not used, avoid warning */
+    SEGGER_RTT_Write(0, ptr, len);
+    return len;
+}
+
+extern "C" int _write_r(struct _reent *r, int file, const void *ptr, size_t len) {
+    (void)file; /* Not used, avoid warning */
+    (void)r;    /* Not used, avoid warning */
+    SEGGER_RTT_Write(0, ptr, len);
+    return len;
+}
 
 /*!
  * @brief Interrupt service for SysTick timer.
@@ -129,7 +144,7 @@ static void print_dhcp_state(struct netif *netif) {
 /*!
  * @brief Main function.
  */
-int main(void) {
+extern "C" int main(void) {
     PRINTF("\r\n************************************************\r\n");
     PRINTF(" DHCP example\r\n");
     PRINTF("************************************************\r\n");
@@ -140,24 +155,37 @@ int main(void) {
     SYSMPU_Type *base = SYSMPU;
     BOARD_InitPins();
     BOARD_BootClockRUN();
-    BOARD_InitDebugConsole();
+    // BOARD_InitDebugConsole();
     /* Disable SYSMPU. */
     base->CESR &= ~SYSMPU_CESR_VLD_MASK;
 
+    PRINTF("time_init... ");
     time_init();
+    PRINTF("OK\r\n");
 
     IP4_ADDR(&fsl_netif0_ipaddr, 0U, 0U, 0U, 0U);
     IP4_ADDR(&fsl_netif0_netmask, 0U, 0U, 0U, 0U);
     IP4_ADDR(&fsl_netif0_gw, 0U, 0U, 0U, 0U);
 
+    PRINTF("lwip_init... ");
     lwip_init();
+    PRINTF("OK\r\n");
 
-    netif_add(&fsl_netif0, &fsl_netif0_ipaddr, &fsl_netif0_netmask, &fsl_netif0_gw, NULL, ethernetif_init,
-              ethernet_input);
+    PRINTF("netif_add... ");
+    netif_add(&fsl_netif0, &fsl_netif0_ipaddr, &fsl_netif0_netmask, &fsl_netif0_gw, NULL, ethernetif_init, ethernet_input);
+    PRINTF("OK\r\n");
+
+    PRINTF("netif_set_default... ");
     netif_set_default(&fsl_netif0);
-    netif_set_up(&fsl_netif0);
+    PRINTF("OK\r\n");
 
+    PRINTF("netif_set_up... ");
+    netif_set_up(&fsl_netif0);
+    PRINTF("OK\r\n");
+
+    PRINTF("dhcp_start... ");
     dhcp_start(&fsl_netif0);
+    PRINTF("OK\r\n");
 
     while (1) {
         /* Poll the driver, get any outstanding frames */

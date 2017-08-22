@@ -4,13 +4,15 @@ TOOLCHAIN_PREFIX = arm-none-eabi-
 PROJECT_NAME     = lwip_dhcp
 
 SDK_ROOT = ../libs/SDK_2.2_FRDM-K64F
+SEGGER   = ../libs/SEGGER_RTT
 
 LINKER_SCRIPT = $(SDK_ROOT)/devices/MK64F12/gcc/MK64FN1M0xxx12_flash.ld
 
 # ----- Sources ---------------------------------------------------------------
 
-SYMBOLS += DEBUG
 SYMBOLS += CPU_MK64FN1M0VLL12
+SYMBOLS += DEBUG
+SYMBOLS += SDK_DEBUGCONSOLE=0
 SYMBOLS += FRDM_K64F
 SYMBOLS += FREEDOM
 
@@ -25,6 +27,8 @@ INCLUDE_DIRS += $(SDK_ROOT)/middleware/lwip_2.0.0/src
 INCLUDE_DIRS += $(SDK_ROOT)/middleware/lwip_2.0.0/src/include
 INCLUDE_DIRS += $(SDK_ROOT)/platform/components/phyksz8081
 
+INCLUDE_DIRS += $(SEGGER)/RTT
+
 INCLUDE_DIRS += src
 
 SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/drivers/fsl_clock.c
@@ -36,7 +40,7 @@ SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/drivers/fsl_smc.c
 SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/drivers/fsl_uart.c
 SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/gcc/startup_MK64F12.S
 SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/system_MK64F12.c
-SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/utilities/fsl_debug_console.c
+# SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/utilities/fsl_debug_console.c
 SOURCE_FILES += $(SDK_ROOT)/middleware/lwip_2.0.0/port/ethernetif.c
 SOURCE_FILES += $(SDK_ROOT)/middleware/lwip_2.0.0/port/sys_arch.c
 SOURCE_FILES += $(SDK_ROOT)/middleware/lwip_2.0.0/src/api/api_lib.c
@@ -110,6 +114,8 @@ SOURCE_FILES += $(SDK_ROOT)/middleware/lwip_2.0.0/src/netif/ppp/utils.c
 SOURCE_FILES += $(SDK_ROOT)/middleware/lwip_2.0.0/src/netif/ppp/vj.c
 SOURCE_FILES += $(SDK_ROOT)/middleware/lwip_2.0.0/src/netif/slipif.c
 
+SOURCE_FILES += $(SEGGER)/RTT/SEGGER_RTT.c
+
 SOURCE_FILES += $(wildcard src/*.c)
 SOURCE_FILES += $(wildcard src/*.cpp)
 
@@ -120,8 +126,7 @@ GCCFLAGS += -mthumb
 GCCFLAGS += -mfloat-abi=hard
 GCCFLAGS += -mfpu=fpv4-sp-d16
 
-COMMON_CFLAGS += -O3
-COMMON_CFLAGS += -flto
+COMMON_CFLAGS += -Og
 
 CFLAGS += -std=gnu11
 
