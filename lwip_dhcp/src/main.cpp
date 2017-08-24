@@ -92,39 +92,17 @@ static void print_dhcp_state(struct netif *netif) {
 
         PRINTF(" DHCP state       : ");
         switch (dhcp_last_state) {
-            case DHCP_STATE_OFF:
-                PRINTF("OFF");
-                break;
-            case DHCP_STATE_REQUESTING:
-                PRINTF("REQUESTING");
-                break;
-            case DHCP_STATE_INIT:
-                PRINTF("INIT");
-                break;
-            case DHCP_STATE_REBOOTING:
-                PRINTF("REBOOTING");
-                break;
-            case DHCP_STATE_REBINDING:
-                PRINTF("REBINDING");
-                break;
-            case DHCP_STATE_RENEWING:
-                PRINTF("RENEWING");
-                break;
-            case DHCP_STATE_SELECTING:
-                PRINTF("SELECTING");
-                break;
-            case DHCP_STATE_INFORMING:
-                PRINTF("INFORMING");
-                break;
-            case DHCP_STATE_CHECKING:
-                PRINTF("CHECKING");
-                break;
-            case DHCP_STATE_BOUND:
-                PRINTF("BOUND");
-                break;
-            case DHCP_STATE_BACKING_OFF:
-                PRINTF("BACKING_OFF");
-                break;
+            case DHCP_STATE_OFF: PRINTF("OFF"); break;
+            case DHCP_STATE_REQUESTING: PRINTF("REQUESTING"); break;
+            case DHCP_STATE_INIT: PRINTF("INIT"); break;
+            case DHCP_STATE_REBOOTING: PRINTF("REBOOTING"); break;
+            case DHCP_STATE_REBINDING: PRINTF("REBINDING"); break;
+            case DHCP_STATE_RENEWING: PRINTF("RENEWING"); break;
+            case DHCP_STATE_SELECTING: PRINTF("SELECTING"); break;
+            case DHCP_STATE_INFORMING: PRINTF("INFORMING"); break;
+            case DHCP_STATE_CHECKING: PRINTF("CHECKING"); break;
+            case DHCP_STATE_BOUND: PRINTF("BOUND"); break;
+            case DHCP_STATE_BACKING_OFF: PRINTF("BACKING_OFF"); break;
             default:
                 PRINTF("%u", dhcp_last_state);
                 assert(0);

@@ -1,7 +1,6 @@
 # ----- Configuration ---------------------------------------------------------
 
 TOOLCHAIN_PREFIX = arm-none-eabi-
-PROJECT_NAME     = lwip_dhcp
 
 SDK_ROOT = ../libs/SDK_2.2_FRDM-K64F
 SEGGER   = ../libs/SEGGER_RTT
@@ -11,10 +10,10 @@ LINKER_SCRIPT = $(SDK_ROOT)/devices/MK64F12/gcc/MK64FN1M0xxx12_flash.ld
 # ----- Sources ---------------------------------------------------------------
 
 SYMBOLS += CPU_MK64FN1M0VLL12
-SYMBOLS += DEBUG
-SYMBOLS += SDK_DEBUGCONSOLE=0
-SYMBOLS += FRDM_K64F
-SYMBOLS += FREEDOM
+# SYMBOLS += DEBUG
+SYMBOLS += SDK_DEBUGCONSOLE=1
+# SYMBOLS += FRDM_K64F
+# SYMBOLS += FREEDOM
 
 INCLUDE_DIRS += $(SDK_ROOT)/CMSIS/Include
 INCLUDE_DIRS += $(SDK_ROOT)/devices
@@ -40,7 +39,7 @@ SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/drivers/fsl_smc.c
 SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/drivers/fsl_uart.c
 SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/gcc/startup_MK64F12.S
 SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/system_MK64F12.c
-# SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/utilities/fsl_debug_console.c
+SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/utilities/fsl_debug_console.c
 SOURCE_FILES += $(SDK_ROOT)/middleware/lwip_2.0.0/port/ethernetif.c
 SOURCE_FILES += $(SDK_ROOT)/middleware/lwip_2.0.0/port/sys_arch.c
 SOURCE_FILES += $(SDK_ROOT)/middleware/lwip_2.0.0/src/api/api_lib.c
@@ -126,7 +125,8 @@ GCCFLAGS += -mthumb
 GCCFLAGS += -mfloat-abi=hard
 GCCFLAGS += -mfpu=fpv4-sp-d16
 
-COMMON_CFLAGS += -Og
+# COMMON_CFLAGS += -O3
+# COMMON_CFLAGS += -flto
 
 CFLAGS += -std=gnu11
 
@@ -142,5 +142,5 @@ LDFLAGS += --specs=nosys.specs
 
 include ../libs/xXx/utils/rules.mk
 
-download: $(EXECUTABLE)
+download: $(ELF_FILE)
 	$(TOOLCHAIN_PREFIX)gdb -q -x download.gdb $<

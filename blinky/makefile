@@ -8,6 +8,7 @@ SDK_ROOT = ../libs/SDK_2.2_FRDM-K64F
 # ----- Sources ---------------------------------------------------------------
 
 SYMBOLS += CPU_MK64FN1M0VLL12
+SYMBOLS += SDK_DEBUGCONSOLE=1
 
 INCLUDE_DIRS += $(SDK_ROOT)/CMSIS/Include
 INCLUDE_DIRS += $(SDK_ROOT)/CMSIS/Driver/Include
@@ -36,11 +37,12 @@ SOURCE_FILES += $(SDK_ROOT)/rtos/freertos_9.0.0/Source/portable/GCC/ARM_CM4F/fsl
 SOURCE_FILES += $(SDK_ROOT)/rtos/freertos_9.0.0/Source/portable/GCC/ARM_CM4F/port.c
 SOURCE_FILES += $(SDK_ROOT)/rtos/freertos_9.0.0/Source/portable/MemMang/heap_3.c
 # Driver
-SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/drivers/fsl_gpio.c
 SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/drivers/fsl_clock.c
+SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/drivers/fsl_gpio.c
+SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/drivers/fsl_uart.c
+SOURCE_FILES += $(SDK_ROOT)/devices/MK64F12/utilities/fsl_debug_console.c
 
 SOURCE_FILES += ../libs/SEGGER_RTT/RTT/SEGGER_RTT.c
-SOURCE_FILES += ../libs/SEGGER_RTT/RTT/SEGGER_RTT_printf.c
 
 SOURCE_FILES += $(shell find src -iregex ".*\.\(c\|cpp\)")
 
@@ -51,14 +53,14 @@ GCCFLAGS += -mthumb
 GCCFLAGS += -mfloat-abi=hard
 GCCFLAGS += -mfpu=fpv4-sp-d16
 
-COMMON_CFLAGS += -O3
-COMMON_CFLAGS += -flto
+# COMMON_CFLAGS += -O3
+# COMMON_CFLAGS += -flto
 
 CFLAGS += -std=gnu11
 
 CXXFLAGS += -std=gnu++14
 
-#CPPFLAGS +=
+# CPPFLAGS +=
 
 LDFLAGS += -T$(SDK_ROOT)/devices/MK64F12/gcc/MK64FN1M0xxx12_flash.ld
 LDFLAGS += --specs=nano.specs
@@ -68,5 +70,5 @@ LDFLAGS += --specs=nosys.specs
 
 include ../libs/xXx/utils/rules.mk
 
-download: $(EXECUTABLE)
+download: $(ELF_FILE)
 	$(TOOLCHAIN_PREFIX)gdb -q -x download.gdb $<
