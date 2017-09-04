@@ -1,6 +1,6 @@
-#if !defined(SDK_DEBUGCONSOLE) || SDK_DEBUGCONSOLE == 0
-
 #include <cstddef>
+
+#if not defined(SDK_DEBUGCONSOLE) || SDK_DEBUGCONSOLE == 0
 
 #include <SEGGER_RTT.h>
 

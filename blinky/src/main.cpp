@@ -12,7 +12,7 @@ static void taskFunction(void *params) {
 
     for (;;) {
         PRINTF("Loop\r\n");
-        GPIO_TogglePinsOutput(RGBLED_GREEN_GPIO, (1 << RGBLED_GREEN_GPIO_PIN));
+        GPIO_TogglePinsOutput(LED_GREEN_GPIO, (1 << LED_GREEN_GPIO_PIN));
         vTaskDelay(500);
     }
 }

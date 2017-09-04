@@ -11,13 +11,13 @@ void board::initLed() {
     CLOCK_EnableClock(kCLOCK_PortB);
     CLOCK_EnableClock(kCLOCK_PortE);
 
-    PORT_SetPinMux(RGBLED_RED_GPIO_PORT, RGBLED_RED_GPIO_PIN, kPORT_MuxAsGpio);
-    PORT_SetPinMux(RGBLED_GREEN_GPIO_PORT, RGBLED_GREEN_GPIO_PIN, kPORT_MuxAsGpio);
-    PORT_SetPinMux(RGBLED_BLUE_GPIO_PORT, RGBLED_BLUE_GPIO_PIN, kPORT_MuxAsGpio);
+    PORT_SetPinMux(LED_RED_GPIO_PORT, LED_RED_GPIO_PIN, kPORT_MuxAsGpio);
+    PORT_SetPinMux(LED_GREEN_GPIO_PORT, LED_GREEN_GPIO_PIN, kPORT_MuxAsGpio);
+    PORT_SetPinMux(LED_BLUE_GPIO_PORT, LED_BLUE_GPIO_PIN, kPORT_MuxAsGpio);
 
-    GPIO_PinInit(RGBLED_RED_GPIO, RGBLED_RED_GPIO_PIN, &redLedConfig);
-    GPIO_PinInit(RGBLED_GREEN_GPIO, RGBLED_GREEN_GPIO_PIN, &greenLedConfig);
-    GPIO_PinInit(RGBLED_BLUE_GPIO, RGBLED_BLUE_GPIO_PIN, &blueLedConfig);
+    GPIO_PinInit(LED_RED_GPIO, LED_RED_GPIO_PIN, &redLedConfig);
+    GPIO_PinInit(LED_GREEN_GPIO, LED_GREEN_GPIO_PIN, &greenLedConfig);
+    GPIO_PinInit(LED_BLUE_GPIO, LED_BLUE_GPIO_PIN, &blueLedConfig);
 }
 
 void board::initDebugConsole() {
