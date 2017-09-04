@@ -53,11 +53,10 @@ GCCFLAGS += -mthumb
 GCCFLAGS += -mfloat-abi=hard
 GCCFLAGS += -mfpu=fpv4-sp-d16
 
-# COMMON_CFLAGS += -O3
-# COMMON_CFLAGS += -flto
-
+CFLAGS += -O3 -flto
 CFLAGS += -std=gnu11
 
+CXXFLAGS += -O3 -flto
 CXXFLAGS += -std=gnu++14
 
 # CPPFLAGS +=

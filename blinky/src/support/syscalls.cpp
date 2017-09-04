@@ -1,3 +1,5 @@
+#if !defined(SDK_DEBUGCONSOLE) || SDK_DEBUGCONSOLE == 0
+
 #include <cstddef>
 
 #include <SEGGER_RTT.h>
@@ -18,3 +20,5 @@ extern "C" int _write_r(struct _reent *r, int f, const void *bytes, size_t numBy
 
     return (numBytes);
 }
+
+#endif
