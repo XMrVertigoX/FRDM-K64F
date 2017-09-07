@@ -1,8 +1,8 @@
 #include <cstddef>
 
-#if not defined(SDK_DEBUGCONSOLE) || SDK_DEBUGCONSOLE == 0
-
 #include <SEGGER_RTT.h>
+
+#if not defined(SDK_DEBUGCONSOLE) || SDK_DEBUGCONSOLE == 0
 
 extern "C" int _write(int f, char *bytes, size_t numBytes) {
     (void)f;

@@ -1,29 +1,44 @@
-#include <FreeRTOS.h>
-#include <task.h>
+#include "main.hpp"
 
-#include <SEGGER_RTT.h>
+void taskFunction(void *params) {
+    __UNUSED(params);
 
-#include "board.hpp"
+    TickType_t ticks;
 
-static void taskFunction(void *params) {
-    (void)params;
-
-    PRINTF("Setup\r\n");
+    PRINTF("Setup (%s)... ", __FUNCTION__);
+    PRINTF("OK\r\n");
 
     for (;;) {
-        PRINTF("Loop\r\n");
-        GPIO_TogglePinsOutput(LED_GREEN_GPIO, (1 << LED_GREEN_GPIO_PIN));
+        ticks = xTaskGetTickCount();
+
+        PRINTF("Ticks: %u\r\n", ticks);
+
+        switch (ticks % 3) {
+            case 0: {
+                GPIO_TogglePinsOutput(LED_RED_GPIO, (1 << LED_RED_GPIO_PIN));
+            } break;
+            case 1: {
+                GPIO_TogglePinsOutput(LED_GREEN_GPIO, (1 << LED_GREEN_GPIO_PIN));
+            } break;
+            case 2: {
+                GPIO_TogglePinsOutput(LED_BLUE_GPIO, (1 << LED_BLUE_GPIO_PIN));
+            } break;
+            default: break;
+        }
+
         vTaskDelay(500);
     }
 }
 
-int main() {
+extern "C" int main() {
     board::initDebugConsole();
-    board::initLed();
+    board::initLeds();
 
     PRINTF("Application started\r\n");
 
+    PRINTF("Creating tasks... ");
     xTaskCreate(taskFunction, NULL, configMINIMAL_STACK_SIZE, NULL, (tskIDLE_PRIORITY + 1), NULL);
+    PRINTF("OK\r\n");
 
     vTaskStartScheduler();
 }

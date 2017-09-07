@@ -1,5 +1,16 @@
 #include "board.hpp"
 
+// clang-format off
+
+#define BOARD_DEBUG_UART_TYPE     DEBUG_CONSOLE_DEVICE_TYPE_UART
+#define BOARD_DEBUG_UART_BASEADDR UART0_BASE
+#define BOARD_DEBUG_UART_CLKSRC   SYS_CLK
+// #define BOARD_UART_IRQ            UART0_RX_TX_IRQn
+// #define BOARD_UART_IRQ_HANDLER    UART0_RX_TX_IRQHandler
+#define BOARD_DEBUG_UART_BAUDRATE (115200)
+
+// clang-format on
+
 static const gpio_pin_config_t redLedConfig   = {kGPIO_DigitalOutput, 1};
 static const gpio_pin_config_t greenLedConfig = {kGPIO_DigitalOutput, 1};
 static const gpio_pin_config_t blueLedConfig  = {kGPIO_DigitalOutput, 1};
@@ -7,7 +18,7 @@ static const gpio_pin_config_t blueLedConfig  = {kGPIO_DigitalOutput, 1};
 static const uint32_t uart0_rxPin = 16;
 static const uint32_t uart0_txPin = 17;
 
-void board::initLed() {
+void board::initLeds() {
     CLOCK_EnableClock(kCLOCK_PortB);
     CLOCK_EnableClock(kCLOCK_PortE);
 
@@ -21,11 +32,12 @@ void board::initLed() {
 }
 
 void board::initDebugConsole() {
+    uint32_t uartClkSrcFreq = CLOCK_GetCoreSysClkFreq();
+
     CLOCK_EnableClock(kCLOCK_PortB);
 
     PORT_SetPinMux(PORTB, uart0_rxPin, kPORT_MuxAlt3);
     PORT_SetPinMux(PORTB, uart0_txPin, kPORT_MuxAlt3);
 
-    uint32_t uartClkSrcFreq = BOARD_DEBUG_UART_CLK_FREQ;
     DbgConsole_Init(BOARD_DEBUG_UART_BASEADDR, BOARD_DEBUG_UART_BAUDRATE, BOARD_DEBUG_UART_TYPE, uartClkSrcFreq);
 }
