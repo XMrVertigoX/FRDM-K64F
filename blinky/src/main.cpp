@@ -1,7 +1,7 @@
 #include "main.hpp"
 
 void taskFunction(void *params) {
-    __UNUSED(params);
+    (void)params;
 
     PRINTF("Setup (%s)... ", __FUNCTION__);
     uint8_t counter = 0;
@@ -34,7 +34,8 @@ extern "C" int main() {
     PRINTF("\r\nApplication started\r\n");
 
     PRINTF("Creating tasks... ");
-    xTaskCreate(taskFunction, NULL, configMINIMAL_STACK_SIZE, NULL, (tskIDLE_PRIORITY + 1), NULL);
+    xTaskCreate(taskFunction, NULL, configMINIMAL_STACK_SIZE, NULL,
+                (tskIDLE_PRIORITY + 1), NULL);
     PRINTF("OK\r\n");
 
     vTaskStartScheduler();

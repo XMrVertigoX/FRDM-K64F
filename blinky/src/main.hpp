@@ -8,6 +8,4 @@
 
 #include "board.hpp"
 
-#define __UNUSED(x) (void)(x)
-
 #endif

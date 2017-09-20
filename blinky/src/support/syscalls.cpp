@@ -2,8 +2,6 @@
 
 #include <SEGGER_RTT.h>
 
-#if not defined(SDK_DEBUGCONSOLE) || SDK_DEBUGCONSOLE == 0
-
 extern "C" int _write(int f, char *bytes, size_t numBytes) {
     (void)f;
 
@@ -20,5 +18,3 @@ extern "C" int _write_r(struct _reent *r, int f, const void *bytes, size_t numBy
 
     return (numBytes);
 }
-
-#endif
